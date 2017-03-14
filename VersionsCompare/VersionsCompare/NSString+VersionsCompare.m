@@ -63,7 +63,7 @@
     return compareType;
 }
 
-- (BOOL)isRightVersion{
+- (BOOL)isRightVersion {
     // this condition can't match the regex, don't need to judge.
     //    if (self == nil) return NO;
 
